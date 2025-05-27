@@ -1,4 +1,4 @@
 idf_component_register(
-    SRCS "Vector2.c"
+    SRCS "Vector.c"
     INCLUDE_DIRS "."
 )
